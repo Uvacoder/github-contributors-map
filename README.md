@@ -1,5 +1,7 @@
 # GitHub Contributors Map
 
+![demo](screenshot-gh-contributers.png)
+
 A world map that shows contributors of a given GitHub repository
 
 Link: https://shinigami92.github.io/github-contributors-map/
